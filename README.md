@@ -1,1 +1,7 @@
-This is he first file named Calculator here it has code of Calculator
+Key Concepts Used :-
+- Variables and Data Types
+- User Input (input())
+- Output (print())
+- Arithmetic Operators (+, -, *, /)
+- Conditional Statements (if, elif, else)
+- Basic Program Logic
